@@ -14,19 +14,24 @@ Welcome to Roomify, a dynamic and feature-rich real-time chat application built 
 - **Profanity Filter:** 🙊 Maintain a positive and respectful environment with a profanity filter.
 
 ## Technologies ??
+
 Backend
+
 - Node.js
 - Express.js
 - Socket.io
 - Multer
 - path
+
 Frontend
+
 - HTML, CSS
 - Mustache
 - Moment
+
 ## Features ?
 
-- [x] Real-time conversations with users 
+- [x] Real-time conversations with users
 - [x] Photo Sharing
 - [x] Location Sharing
 - [x] Chat Download
