@@ -46,6 +46,11 @@ Frontend
 3. Run the application with `npm start`.
 
 Feel free to explore, contribute, and enhance your real-time chatting experience with Roomify. Happy chatting!
+## Overview 
+
+
+https://github.com/alin00r/Roomify/assets/74410154/e1ad65d7-5de6-42df-8ebe-2301e4c8c4e1
+
 
 ## License
 
